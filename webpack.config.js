@@ -34,7 +34,7 @@ module.exports = {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: "asset/resource",
         generator: {
-          filename: "assets/images/", // Specifies the output path and filename for the images
+          filename: "assets/resource", // Specifies the output path and filename for the images
         },
       },
     ],
