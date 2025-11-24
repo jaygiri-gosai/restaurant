@@ -1,0 +1,17 @@
+#hero {
+  background: url("/src/assets/images/rbimage.jpg") no-repeat center center;
+  margin: 0;
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+}
+
+.title {
+  /* margin-top: 1rem; */
+  position: absolute;
+  top: 30%;
+  left: 38%;
+  padding: 0.7rem 1rem;
+  color: white;
+  text-align: center;
+}

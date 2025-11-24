@@ -1,0 +1,25 @@
+.header-container {
+  padding: 1rem;
+  background-color: #6f4435;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button-container > button {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: whitesmoke;
+  background: none;
+  border: none;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+}
+
+.button-container > button:hover {
+  background-color: #c67c46;
+  color: black;
+  border-radius: 0.9rem;
+}
